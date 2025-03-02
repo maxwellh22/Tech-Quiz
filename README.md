@@ -75,7 +75,7 @@ Cypress Testing
 
 ## Video Walkthrough
 
-- Video walkthrough on Screencastify: https://app.screencastify.com/v3/watch/p1czpdoiMTIAC1JVv55e
+- Video walkthrough on Screencastify: https://app.screencastify.com/v3/watch/yy72IQWzmagcokg2IYHf
 
 ## Contact
 
